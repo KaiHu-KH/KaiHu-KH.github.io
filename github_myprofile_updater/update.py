@@ -1,5 +1,5 @@
 if __name__ == '__main__':
-    _header = '## Hi there 👋'
+    _header = "## Hi there 👋, I'm Kai Hu (胡凯)"
     base_dir = '../_pages/includes/'
     _intro = open(f'{base_dir}/intro.md').read().strip()
     _homepage = open(f'{base_dir}/homepage.md').read().strip()
