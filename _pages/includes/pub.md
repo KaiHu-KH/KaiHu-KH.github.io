@@ -16,3 +16,7 @@
 - ``ICDAR 2023`` [A Hybrid Approach to Document Layout Analysis for Heterogeneous Document Images](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_12), Zhuoyao Zhong$^✉️$, Jiawei Wang, Haiqing Sun, **Kai Hu**, Erhan Zhang, Lei Sun, Qiang Huo
 - ``AAAI 2023`` <font color="red">(Oral)</font> [A Question-Answering Approach to Key Value Pair Extraction from Form-like Document Images](https://arxiv.org/abs/2304.07957), **Kai Hu\***, Zhuoyuan Wu\*, Zhuoyao Zhong$^✉️$, Weihong Lin, Lei Sun, Qiang Huo
 - ``ICDAR 2021``  <font color="red">(Best Paper Award)</font>  [ViBERTgrid: A Jointly Trained Multi-modal 2D Document Representation for Key Information Extraction from Documents](https://arxiv.org/abs/2105.11672), Weihong Lin\*$^✉️$, Qifang Gao\*, Lei Sun, Zhuoyao Zhong, **Kai Hu**, Qin Ren, Qiang Huo
+
+# 📚 Academic Services
+- ICDAR 2023 Reviewer
+- ICDAR 2024 Reviewer
