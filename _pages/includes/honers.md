@@ -1,6 +1,7 @@
 # 🎖 Honors and Awards
 - **2024.10**: Outstanding Doctoral Graduate (Top 5%) 📍 USTC
-- **2019-2024**: Co-Developer of Microsoft Azure OneOCR & OneLayout API 📍 MSRA
+- **2024**: Top Minds Program (Highest-Tier, Huawei), Ali-Star (Alibaba), Qingyun Plan (Tencent)
+- **2019-2024**: Co-Developer of Microsoft Azure AI Document Intelligent API 📍 MSRA
 - **2024**: Microsoft Research Asia Star of Tomorrow Internship (Top 5%) 📍 MSRA
 - **2021.09**: ICDAR 2021 Best Paper Award (1/400+) 📍 MSRA
 - **2019**: Microsoft Research Asia Star of Tomorrow Internship (Top 5%) 📍 MSRA

@@ -12,7 +12,7 @@
 <li><b>2023.04</b>: 🎉 One paper is accepted by ICDAR 2023.</li>
 <li><b>2022.11</b>: 🎉 One paper is accepted by AAAI 2023.</li>
 <li><b>2022</b>: 😭 This year has been the hardest of my life. I sincerely hope everyone stays healthy and well. 🙏 </li>
-<li><b>2021.09</b>: 🎉 Our ViBERTgrid won the Best Paper Award of ICDAR 2021!</li>
+<li><b>2021.09</b>: 🎉 Our <b>ViBERTgrid</b> won the <b>Best Paper Award</b> of ICDAR 2021!</li>
 <li><b>2021.03</b>: 🎉 One paper is accepted by ICDAR 2021.</li>
 </ul>
 </details>
