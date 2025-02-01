@@ -21,3 +21,12 @@ shieldio_data = {
 }
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
+
+for pub_key, pub_value in author['publications']:
+  shieldio_data = {
+    "schemaVersion": 1,
+    "label": "citations",
+    "message": f"{pub_value['num_citations']}",
+  }
+  with open(f'results/{pub_key}_data_shieldsio.json', 'w') as outfile:
+      json.dump(shieldio_data, outfile, ensure_ascii=False)

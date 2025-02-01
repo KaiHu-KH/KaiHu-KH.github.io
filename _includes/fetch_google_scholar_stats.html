@@ -12,7 +12,11 @@
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
                 var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+                var scholarId = data['scholar_id']
+                element.innerHTML = "<a href='https://scholar.google.com/citations?view_op=view_citation&user="
+                                 + scholarId + "&citation_for_view=" + paperId 
+                                 + "'><img src='https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FKaiHu-KH%2FKaiHu-KH.github.io@google-scholar-stats%2F" + paperId
+                                 + "_gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations'></a>";
             });
         });
     })

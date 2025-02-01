@@ -1,7 +1,7 @@
 # 🔥 News
 <ul>
 <li><b>2024.12</b>: 🎉 One paper is accepted by ICASSP 2025.</li>
-<li><b>2024.11</b>: 🎉 I'm thrilled to have had the opportunity to make a small contribution to <b>DeepSeek-VL2</b>, <b>DeepSeek-V3</b>, and <b>DeepSeek-R1</b>. It's an honor to be part of such cutting-edge projects!</li>
+<li><b>2024.11</b>: 🎉 I'm thrilled to have had the opportunity to make some small contributions to <b>DeepSeek-VL2</b>, <b>DeepSeek-V3</b> and <b>DeepSeek-R1</b>. It's an honor to be part of such cutting-edge projects!</li>
 <li><b>2024.04</b>: 🎉 Four papers are accepted by ICDAR 2024.</li>
 <li><b>2024.03</b>: 🎉 One paper is accepted by Pattern Recognition.</li>
 </ul>
