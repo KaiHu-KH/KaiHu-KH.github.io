@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kai Hu"
-description              : "Senior Research Scientist in Microsoft CoreAI Multimodal Intelligence Team. Focusing on document intelligence, image intelligence and video intelligence."
+description              : "Research Scientist in Microsoft Core AI Multimodal Intelligence Team."
 repository               : "KaiHu-KH/KaiHu-KH.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kai Hu (胡凯)"
   avatar           : "images/hk_profile.jpeg"
-  bio              : "Senior Research Scientist of Microsoft. Joint Ph.D. of USTC and MSRA"
+  bio              : "Microsoft"
   location         : "Redmond, WA, US"
   employer         :
   pubmed           : 
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  wechat           : images/HK_Wechat_QR.jpg
 
 
 # Reading Files
