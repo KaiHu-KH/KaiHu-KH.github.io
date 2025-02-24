@@ -3,10 +3,10 @@
 - ✉️ means Corresponding Author; * means Equal Contribution
 
 ## 🤖 LLMs & MLLMs
+1. ``ICASSP 2025`` DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering, Haochen Wang, **Kai Hu**, Liangcai Gao$^✉️$
 1. ``arXiv 2025`` <font color="red">(Cutting-edge Project)</font> [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948), DeepSeek AI [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social&label=DeepSeek-R1+Stars)](https://github.com/deepseek-ai/DeepSeek-R1)
 1. ``arXiv 2024`` <font color="red">(Cutting-edge Project)</font> [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437v1), DeepSeek AI [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social&label=DeepSeek-V3+Stars)](https://github.com/deepseek-ai/DeepSeek-V3)
 1. ``arXiv 2024`` <font color="red">(Cutting-edge Project)</font> [DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://arxiv.org/abs/2412.10302), Zhiyu Wu\*, Xiaokang Chen\*, Zizheng Pan\*, Xingchao Liu\*, Wen Liu\*, Damai Dai, Huazuo Gao, Yiyang Ma, Chengyue Wu, Bingxuan Wang, Zhenda Xie, Yu Wu, **Kai Hu**, Jiawei Wang, Yaofeng Sun, Yukun Li, Yishi Piao, Kang Guan, Aixin Liu, Xin Xie, Yuxiang You, Kai Dong, Xingkai Yu, Haowei Zhang, Liang Zhao, Yisong Wang, Chong Ruan$^✉️$ [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-VL2?style=social&label=DeepSeek-VL2+Stars)](https://github.com/deepseek-ai/DeepSeek-VL2)
-1. ``ICASSP 2025`` DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering, Haochen Wang, **Kai Hu**, Liangcai Gao$^✉️$
 1. ``ICDAR 2024`` [DocTabQA: Answering Questions from Long Documents Using Tables](https://arxiv.org/abs/2408.11490), Haochen Wang, **Kai Hu**, Haoyu Dong, Liangcai Gao$^✉️$ [![](https://img.shields.io/github/stars/SmileWHC/DocTabQA?style=social&label=DocTabQA+Stars)](https://github.com/SmileWHC/DocTabQA)
 
 ## 📄 Document Intelligence
