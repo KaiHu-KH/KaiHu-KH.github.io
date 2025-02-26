@@ -7,16 +7,16 @@
 
 # Site Settings
 title                    : "Kai Hu"
-description              : "Research Scientist in Microsoft Core AI Multimodal Intelligence Team."
+description              : "Research Scientist in Microsoft CoreAI Multimodal Intelligence Team."
 repository               : "KaiHu-KH/KaiHu-KH.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : G-SPERWCV9WG # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification : vLX3GK3hcofmHzQEmJPGk3SU28iAK7a7y8J1yoiqIpc # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : 09FAF9275B6E526682A48CF8AC8B0EC8 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
