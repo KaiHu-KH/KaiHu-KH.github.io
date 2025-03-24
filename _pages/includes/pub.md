@@ -10,7 +10,7 @@
 1. ``ICDAR 2024`` [DocTabQA: Answering Questions from Long Documents Using Tables](https://arxiv.org/abs/2408.11490), Haochen Wang, **Kai Hu**, Haoyu Dong, Liangcai Gao$^✉️$ [![](https://img.shields.io/github/stars/SmileWHC/DocTabQA?style=social&label=DocTabQA+Stars)](https://github.com/SmileWHC/DocTabQA)
 
 ## 📄 Document Intelligence
-1. ``Pattern Recognition 2025`` <font color="red">(SCI Q1 Journal)</font> UniHDSA: A Unified Relation Prediction Approach for Hierarchical Document Structure Analysis, Jiawei Wang$^✉️$, **Kai Hu**, Qiang Huo
+1. ``Pattern Recognition 2025`` <font color="red">(SCI Q1 Journal)</font> [UniHDSA: A Unified Relation Prediction Approach for Hierarchical Document Structure Analysis](https://arxiv.org/abs/2503.15893), Jiawei Wang$^✉️$, **Kai Hu**, Qiang Huo
 1. ``ICDAR 2024`` <font color="red">(Oral)</font> [DLAFormer: An End-to-End Transformer For Document Layout Analysis](https://arxiv.org/abs/2405.11757), Jiawei Wang\*$^✉️$, **Kai Hu\*$^✉️$**, Qiang Huo
 1. ``ICDAR 2024`` <font color="red">(Oral)</font> [Dynamic Relation Transformer for Contextual Text Block Detection](https://arxiv.org/abs/2401.09232), Jiawei Wang\*$^✉️$, Shunchi Zhang\*$^✉️$, **Kai Hu\*$^✉️$**, Chixiang Ma, Zhuoyao Zhong, Lei Sun, Qiang Huo
 1. ``ICDAR 2024``  <font color="red">(Oral)</font> [UniVIE: A Unified Label Space Approach to Visual Information Extraction from Form-Like Documents](https://arxiv.org/abs/2401.09220), **Kai Hu$^✉️$**, Jiawei Wang, Weihong Lin, Zhuoyao Zhong, Lei Sun, Qiang Huo
