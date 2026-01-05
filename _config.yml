@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kai Hu"
-description              : "Senior Research Scientist in Microsoft CoreAI Multimodal Intelligence Team."
+description              : "Researcher at a stealth-mode large language model startup."
 repository               : "KaiHu-KH/KaiHu-KH.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kai Hu (胡凯)"
   avatar           : "images/hk_profile.jpeg"
-  bio              : "Microsoft"
-  location         : "Beijing, China"
+  bio              : "Researcher"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Gt3I5lgAAAAJ"
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : images/HK_Wechat_QR.jpg
+  wechat           : 
 
 
 # Reading Files

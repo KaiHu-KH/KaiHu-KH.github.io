@@ -1,8 +1,9 @@
 # 🔥 News
 <ul>
+<li><b>2025.11</b>: 🎉 We open-sourced <b>Nex</b>, a full-stack AI Agent Platform that connects models, frameworks, data, and infrastructure end-to-end. Check out the <a href="https://nex.sii.edu.cn/index.en.html">Nex-AGI</a> for more details!</li>
 <li><b>2025.03</b>: 🎉 One paper is accepted by Pattern Recognition.</li>
 <li><b>2024.12</b>: 🎉 One paper is accepted by ICASSP 2025.</li>
-<li><b>2024.11</b>: 🎉 I'm thrilled to have the opportunity to make some small contributions to <b>DeepSeek-VL2</b>, <b>DeepSeek-V3</b> and <b>DeepSeek-R1</b>. It's an honor to be part of such cutting-edge projects!</li>
+<li><b>2024.11</b>: 🎉 I'm thrilled to have the opportunity to make some contributions to <b>DeepSeek-OCR</b>, <b>DeepSeek-VL2</b>, <b>DeepSeek-V3</b> and <b>DeepSeek-R1</b>.</li>
 <li><b>2024.04</b>: 🎉 Four papers are accepted by ICDAR 2024.</li>
 </ul>
 <details>

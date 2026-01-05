@@ -3,6 +3,7 @@
 - ✉️ means Corresponding Author; * means Equal Contribution
 
 ## 🤖 LLMs & MLLMs
+1. ``arXiv 2025`` [Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction](https://arxiv.org/abs/2512.04987), Nex-AGI Team
 1. ``ICASSP 2025`` [DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering](https://ieeexplore.ieee.org/abstract/document/10887668), Haochen Wang, **Kai Hu**, Liangcai Gao$^✉️$
 1. ``arXiv 2025`` <font color="red">(Cutting-edge Project)</font> [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948), DeepSeek AI [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social&label=DeepSeek-R1+Stars)](https://github.com/deepseek-ai/DeepSeek-R1)
 1. ``arXiv 2024`` <font color="red">(Cutting-edge Project)</font> [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437v1), DeepSeek AI [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-V3?style=social&label=DeepSeek-V3+Stars)](https://github.com/deepseek-ai/DeepSeek-V3)
@@ -21,4 +22,6 @@
 1. ``ICDAR 2021``  <font color="red">(Best Paper Award)</font>  [ViBERTgrid: A Jointly Trained Multi-modal 2D Document Representation for Key Information Extraction from Documents](https://arxiv.org/abs/2105.11672), Weihong Lin\*$^✉️$, Qifang Gao\*, Lei Sun, Zhuoyao Zhong, **Kai Hu**, Qin Ren, Qiang Huo
 
 # 📚 Academic Services
-- ICDAR Reviewer (2023, 2024, 2025)
+- ICDAR Reviewer (2023, 2024, 2025, 2026)
+- Pattern Recognition Reviewer (2025)
+- AAAI Reviewer (2025)
