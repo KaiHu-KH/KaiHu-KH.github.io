@@ -1,5 +1,5 @@
 # 💻 Experiences
-- **2025.05-Now**: Researcher, **Stealth-mode Large Language Model Startup**, Shanghai, China. 
+- **2025.05-Now**: Researcher, **Nex-AGI**, Shanghai, China. 
 - **2024.12-2025.05**: Senior Research Scientist, Multimodal Intelligence Team, **Microsoft CoreAI** <img src='./images/microsoft_logo.svg' style='width: 4em;'>, Beijing, China (Waiting for the work visa to go to Microsoft Seattle).
 - **2024.06-2024.11**: Research Intern, Multimodal LLM Team, **DeepSeek** <img src='./images/deepseek_logo.png' style='width: 4em;'>, Beijing, China.
 - **2020.06-2024.06**: Research Intern, Multimodal Interaction Group, **Microsoft Research Asia** <img src='./images/microsoft_logo.svg' style='width: 4em;'>, Beijing, China.
