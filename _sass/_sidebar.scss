@@ -82,21 +82,29 @@
   display: table-cell;
   vertical-align: top;
   width: 75px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  height: 75px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  overflow: hidden;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 175px;
+    height: 175px;
   }
 
   img {
-    max-width: 175px;
-    min-width: 75px;
+    // Square box + 50% radius => circle; without equal sides, 50% gives an ellipse.
+    object-fit: cover;
     border-radius: 50%;
+    width: 75px;
+    height: 75px;
 
     @include breakpoint($large) {
+      width: 175px;
+      height: 175px;
+      max-width: 175px;
+      box-sizing: border-box;
       padding: 5px;
       border: 1px solid $border-color;
     }
