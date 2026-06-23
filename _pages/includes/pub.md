@@ -3,6 +3,7 @@
 - ✉️ means Corresponding Author; * means Equal Contribution
 
 ## 🤖 LLMs & MLLMs
+1. ``ACL 2026 Findings`` [MM-Doc-R1: Training Agents for Long Document Visual Question Answering through Multi-turn Reinforcement Learning](https://arxiv.org/abs/2604.13579), Jiahang Lin\*, **Kai Hu\***, Binghai Wang, Yuhao Zhou, Zhiheng Xi, Honglin Guo, Shichun Liu, Junzhe Wang, Shihan Dou, Enyu Zhou, Hang Yan, Zhenhua Han$^✉️$, Tao Gui$^✉️$, Qi Zhang, Xuanjing Huang
 1. ``arXiv 2025`` [Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction](https://arxiv.org/abs/2512.04987), Nex-AGI Team
 1. ``ICASSP 2025`` [DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering](https://ieeexplore.ieee.org/abstract/document/10887668), Haochen Wang, **Kai Hu**, Liangcai Gao$^✉️$
 1. ``arXiv 2025`` <font color="red">(Cutting-edge Project)</font> [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948), DeepSeek AI [![](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1?style=social&label=DeepSeek-R1+Stars)](https://github.com/deepseek-ai/DeepSeek-R1)
